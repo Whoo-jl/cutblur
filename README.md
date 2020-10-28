@@ -1,4 +1,5 @@
 ## Rethinking Data Augmentation for Image Super-resolution (CVPR 2020)
+参考链接：https://zhuanlan.zhihu.com/p/124223715
 <p align="left"><img width="99%" src="assets/teaser.jpg"/></p>
 
 This repository provides the official PyTorch implementation of the following paper:
